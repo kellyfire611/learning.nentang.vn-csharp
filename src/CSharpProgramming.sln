@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession13", "Lession13\Less
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_ATM_VietNam", "Console_ATM_VietNam\Console_ATM_VietNam.csproj", "{018A3240-AB14-4672-B48C-72D4861B3D5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMaxAndMinMatrix2D", "FindMaxAndMinMatrix2D\FindMaxAndMinMatrix2D.csproj", "{9C24B8C1-53B8-49B8-A334-40B7F4331E09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{018A3240-AB14-4672-B48C-72D4861B3D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{018A3240-AB14-4672-B48C-72D4861B3D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{018A3240-AB14-4672-B48C-72D4861B3D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C24B8C1-53B8-49B8-A334-40B7F4331E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C24B8C1-53B8-49B8-A334-40B7F4331E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C24B8C1-53B8-49B8-A334-40B7F4331E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C24B8C1-53B8-49B8-A334-40B7F4331E09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
