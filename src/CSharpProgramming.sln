@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2026
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession1", "Lession1\Lession1.csproj", "{DA0584EC-0351-4EE9-B5A6-161DD2475C93}"
 EndProject
@@ -38,6 +38,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_ATM_VietNam", "Console_ATM_VietNam\Console_ATM_VietNam.csproj", "{018A3240-AB14-4672-B48C-72D4861B3D5A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMaxAndMinMatrix2D", "FindMaxAndMinMatrix2D\FindMaxAndMinMatrix2D.csproj", "{9C24B8C1-53B8-49B8-A334-40B7F4331E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreEmployeeUsingStruct", "StoreEmployeeUsingStruct\StoreEmployeeUsingStruct.csproj", "{8E2BD57A-50EF-4EE3-8386-DA856303429B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{9C24B8C1-53B8-49B8-A334-40B7F4331E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C24B8C1-53B8-49B8-A334-40B7F4331E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C24B8C1-53B8-49B8-A334-40B7F4331E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E2BD57A-50EF-4EE3-8386-DA856303429B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2BD57A-50EF-4EE3-8386-DA856303429B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2BD57A-50EF-4EE3-8386-DA856303429B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2BD57A-50EF-4EE3-8386-DA856303429B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
