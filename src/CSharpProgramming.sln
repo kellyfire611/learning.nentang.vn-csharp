@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H4ck3rSp34k", "H4ck3rSp34k\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlTeRnAtInG_CaPs​​​​​", "AlTeRnAtInG_CaPs​​​​​\AlTeRnAtInG_CaPs​​​​​.csproj", "{9EF67ABC-59C4-483E-BF4E-224206776BD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumTwoSmallestNumber", "SumTwoSmallestNumber\SumTwoSmallestNumber.csproj", "{92C0DB73-9F7C-4FDD-AE94-3BED664795BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{9EF67ABC-59C4-483E-BF4E-224206776BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EF67ABC-59C4-483E-BF4E-224206776BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EF67ABC-59C4-483E-BF4E-224206776BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92C0DB73-9F7C-4FDD-AE94-3BED664795BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C0DB73-9F7C-4FDD-AE94-3BED664795BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C0DB73-9F7C-4FDD-AE94-3BED664795BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C0DB73-9F7C-4FDD-AE94-3BED664795BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
