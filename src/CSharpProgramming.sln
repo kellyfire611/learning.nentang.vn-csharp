@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeacherAndStudentOOP", "Tea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H4ck3rSp34k", "H4ck3rSp34k\H4ck3rSp34k.csproj", "{5982CD7A-FD52-486A-A171-3D7B6E25F254}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlTeRnAtInG_CaPs​​​​​", "AlTeRnAtInG_CaPs​​​​​\AlTeRnAtInG_CaPs​​​​​.csproj", "{9EF67ABC-59C4-483E-BF4E-224206776BD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{5982CD7A-FD52-486A-A171-3D7B6E25F254}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5982CD7A-FD52-486A-A171-3D7B6E25F254}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5982CD7A-FD52-486A-A171-3D7B6E25F254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF67ABC-59C4-483E-BF4E-224206776BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF67ABC-59C4-483E-BF4E-224206776BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF67ABC-59C4-483E-BF4E-224206776BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF67ABC-59C4-483E-BF4E-224206776BD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
