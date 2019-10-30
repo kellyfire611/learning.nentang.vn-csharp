@@ -131,6 +131,16 @@ namespace DataTypeInCSharp
             //
             // TODO: Khai báo các Biến dữ liệu cần thiết để có thể lưu trữ được Mẫu thông tin Lý lịch A2
             // https://nentang.vn/khoa-hoc/dot-net/lap-trinh-can-ban-c-sharp/bai-hoc/khai-bao-cac-kieu-du-lieu-cho-mau-ly-lich-a2-va-mau-hoa-don-ban-hang/
+            string hoTen = "Dương Nguyễn Phú Cường";
+            int gioiTinh = 0; //0: Nam; 1: Nữ; 2: Không công bố
+            string[] diaChi = new string[5]; // Mỗi người có 5 địa chỉ
+            diaChi[0] = "130 Xô Viết Nghệ Tỉnh, Quận Ninh Kiều, TP Cần Thơ";
+            diaChi[1] = "01 Lý Tự Trọng, Quận Ninh Kiều, TP Cần Thơ";
+            diaChi[2] = "";
+            diaChi[3] = "";
+            diaChi[4] = "";
+            DateTime ngaySinh = new DateTime(1989, 11, 06, 04, 00, 00);
+
 
             //
             // TODO: Khai báo các Biến dữ liệu cần thiết để có thể lưu trữ được Mẫu hóa đơn bán hàng
