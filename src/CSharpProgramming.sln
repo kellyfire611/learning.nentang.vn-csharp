@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypeInCSharp", "DataTyp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorInCSharp", "OperatorInCSharp\OperatorInCSharp.csproj", "{8D8CCD55-9966-4236-ADF5-8D5329E9FA8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BangCuuChuong", "BangCuuChuong\BangCuuChuong.csproj", "{F858282F-4AFA-452D-8A64-77751E65A0A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{8D8CCD55-9966-4236-ADF5-8D5329E9FA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D8CCD55-9966-4236-ADF5-8D5329E9FA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D8CCD55-9966-4236-ADF5-8D5329E9FA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F858282F-4AFA-452D-8A64-77751E65A0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F858282F-4AFA-452D-8A64-77751E65A0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F858282F-4AFA-452D-8A64-77751E65A0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F858282F-4AFA-452D-8A64-77751E65A0A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -173,6 +179,7 @@ Global
 		{20F86D1B-C191-4333-A77D-7CFDF19BAC0E} = {092036A3-37FE-401A-9297-62B809FE2261}
 		{A9E89D6E-74ED-4FE8-ADBC-61481F163173} = {A47CD09D-1689-488E-B15E-0F19687C844C}
 		{8D8CCD55-9966-4236-ADF5-8D5329E9FA8B} = {A47CD09D-1689-488E-B15E-0F19687C844C}
+		{F858282F-4AFA-452D-8A64-77751E65A0A7} = {A47CD09D-1689-488E-B15E-0F19687C844C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {462B3588-E42A-4CAA-8A63-5FB4326C1C19}
