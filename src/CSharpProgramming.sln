@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BangCuuChuong", "BangCuuChu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyMang2Chieu", "CopyMang2Chieu\CopyMang2Chieu.csproj", "{22F312E5-5134-40B5-B3A3-C8F881943CAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagamentSystem", "StudentManagamentSystem\StudentManagamentSystem.csproj", "{48964DBE-A81D-43E9-83DD-D420123E29DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{22F312E5-5134-40B5-B3A3-C8F881943CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22F312E5-5134-40B5-B3A3-C8F881943CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22F312E5-5134-40B5-B3A3-C8F881943CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48964DBE-A81D-43E9-83DD-D420123E29DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48964DBE-A81D-43E9-83DD-D420123E29DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48964DBE-A81D-43E9-83DD-D420123E29DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48964DBE-A81D-43E9-83DD-D420123E29DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
