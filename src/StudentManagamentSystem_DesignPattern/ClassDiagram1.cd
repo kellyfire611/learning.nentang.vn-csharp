@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StudentManagamentSystem_DesignPattern.Commands.LecturerCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAACAAAAABAAAAA=</HashCode>
+      <FileName>Commands\LecturerCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StudentManagamentSystem_DesignPattern.Commands.StudentCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAEAAAAAAAAABAAAAI=</HashCode>
+      <FileName>Commands\StudentCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StudentManagamentSystem_DesignPattern.Entities.Lecturer" Collapsed="true">
+    <Position X="1.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAACAAAAABAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Entites\Lecturer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagamentSystem_DesignPattern.Entities.Person" Collapsed="true">
+    <Position X="2.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAACCAAAAABAAAAAQACAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Entites\Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StudentManagamentSystem_DesignPattern.Entities.Student" Collapsed="true">
+    <Position X="3.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABAAAAAACAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entites\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagamentSystem_DesignPattern.Invokers.LecturerInvoker" Collapsed="true">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAQAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Invokers\LecturerInvoker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagamentSystem_DesignPattern.Invokers.StudentInvoker" Collapsed="true">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAQAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Invokers\StudentInvoker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagamentSystem_DesignPattern.Receivers.LecturerReceiver" Collapsed="true">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAaAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAgEAA=</HashCode>
+      <FileName>Receivers\LecturerReceiver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagamentSystem_DesignPattern.Receivers.Receiver" Collapsed="true">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Receivers\Receiver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagamentSystem_DesignPattern.Receivers.StudentReceiver" Collapsed="true">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAaAAAAAAAAAAAAAAAACAAAAAAEAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Receivers\StudentReceiver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagamentSystem_DesignPattern.Program" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAASAAAAAAAAAAAAASAABAAQEAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="StudentManagamentSystem_DesignPattern.Commands.ICommand" Collapsed="true">
+    <Position X="6" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Commands\ICommand.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StudentManagamentSystem_DesignPattern.Entities.IPerson" Collapsed="true">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAACAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entites\IPerson.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="StudentManagamentSystem_DesignPattern.Commands.CommandAction" Collapsed="true">
+    <Position X="6" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAaAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Commands\CommandAction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

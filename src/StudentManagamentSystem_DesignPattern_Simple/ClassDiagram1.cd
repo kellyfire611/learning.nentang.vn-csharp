@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StudentManagamentSystem_DesignPattern_Simple.Program" Collapsed="true">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagamentSystem_DesignPattern_Simple.Menu" Collapsed="true">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagamentSystem_DesignPattern_Simple.Creator.ApplicationLecturer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creator\ApplicationLecturer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StudentManagamentSystem_DesignPattern_Simple.Creator.ApplicationStudent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creator\ApplicationStudent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StudentManagamentSystem_DesignPattern_Simple.Entities.Lecturer" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAACAAAAABAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Entites\Lecturer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagamentSystem_DesignPattern_Simple.Entities.Person" Collapsed="true">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAACCAAAAABAAAAAQACAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Entites\Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StudentManagamentSystem_DesignPattern_Simple.Entities.Student" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABAAAAAACAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entites\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManagamentSystem_DesignPattern_Simple.Management.LecturerManagementSystem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Management\LecturerManagementSystem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StudentManagamentSystem_DesignPattern_Simple.Management.StudentManagementSystem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Management\StudentManagementSystem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="StudentManagamentSystem_DesignPattern_Simple.Creator.IApplication" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creator\IApplication.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StudentManagamentSystem_DesignPattern_Simple.Entities.IPerson" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAACAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entites\IPerson.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="StudentManagamentSystem_DesignPattern_Simple.Management.IManagementSystem" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Management\IManagementSystem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
