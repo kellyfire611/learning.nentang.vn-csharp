@@ -73,6 +73,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern_Example", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagamentSystem_DesignPattern_Simple", "StudentManagamentSystem_DesignPattern_Simple\StudentManagamentSystem_DesignPattern_Simple.csproj", "{6A9AA983-FF62-439D-923C-9DEA453F4E65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagamentSystem_OOP", "StudentManagamentSystem_OOP\StudentManagamentSystem_OOP.csproj", "{0A87EC9B-51F0-4B71-A9FD-FD17009D688A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -199,6 +201,10 @@ Global
 		{6A9AA983-FF62-439D-923C-9DEA453F4E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A9AA983-FF62-439D-923C-9DEA453F4E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A9AA983-FF62-439D-923C-9DEA453F4E65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A87EC9B-51F0-4B71-A9FD-FD17009D688A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A87EC9B-51F0-4B71-A9FD-FD17009D688A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A87EC9B-51F0-4B71-A9FD-FD17009D688A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A87EC9B-51F0-4B71-A9FD-FD17009D688A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
