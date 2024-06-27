@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.28922.388
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession1", "Lession1\Lession1.csproj", "{DA0584EC-0351-4EE9-B5A6-161DD2475C93}"
 EndProject
@@ -74,6 +74,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagamentSystem_DesignPattern_Simple", "StudentManagamentSystem_DesignPattern_Simple\StudentManagamentSystem_DesignPattern_Simple.csproj", "{6A9AA983-FF62-439D-923C-9DEA453F4E65}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagamentSystem_OOP", "StudentManagamentSystem_OOP\StudentManagamentSystem_OOP.csproj", "{0A87EC9B-51F0-4B71-A9FD-FD17009D688A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentLecturerManagement", "StudentLecturerManagement\StudentLecturerManagement.csproj", "{63A82313-8938-4B0A-A7B3-65DEF686C9DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -205,6 +207,10 @@ Global
 		{0A87EC9B-51F0-4B71-A9FD-FD17009D688A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A87EC9B-51F0-4B71-A9FD-FD17009D688A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A87EC9B-51F0-4B71-A9FD-FD17009D688A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A82313-8938-4B0A-A7B3-65DEF686C9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A82313-8938-4B0A-A7B3-65DEF686C9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A82313-8938-4B0A-A7B3-65DEF686C9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A82313-8938-4B0A-A7B3-65DEF686C9DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
