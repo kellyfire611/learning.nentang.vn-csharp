@@ -12,7 +12,7 @@ namespace EncryptDecrypt_Symmetric_Asymmetric
     {
         public static string AESEncryptString(string key, string plainText)
         {
-            byte[] iv = new byte[16];
+            byte[] iv = new byte[16]; // Initial Vector
             byte[] array;
 
             using (Aes aes = Aes.Create())
@@ -66,7 +66,7 @@ namespace EncryptDecrypt_Symmetric_Asymmetric
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-            var key = "42bedad76f22113a7dc8225c6b342150"; // NenTang.vn MD5
+            var key = "42bedad76f22113a7dc8225c6b342150"; // NenTang.vn MD5, SHA1, SHA246, SHA512
 
             //Console.WriteLine("Please enter a secret key for the symmetric algorithm.");
             //var key = Console.ReadLine();
