@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp4", "ConsoleApp4\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EbookManagement", "EbookManagement\EbookManagement.csproj", "{A069F373-C9F5-417A-AF3A-20ED1713224B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aptech_DeThi_01", "Aptech_DeThi_01\Aptech_DeThi_01.csproj", "{CFA5CCCB-7FE2-4085-82A5-28A06B36FE71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -259,6 +261,10 @@ Global
 		{A069F373-C9F5-417A-AF3A-20ED1713224B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A069F373-C9F5-417A-AF3A-20ED1713224B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A069F373-C9F5-417A-AF3A-20ED1713224B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFA5CCCB-7FE2-4085-82A5-28A06B36FE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA5CCCB-7FE2-4085-82A5-28A06B36FE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA5CCCB-7FE2-4085-82A5-28A06B36FE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA5CCCB-7FE2-4085-82A5-28A06B36FE71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
